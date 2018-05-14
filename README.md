@@ -1,3 +1,5 @@
+**NOTICE: This repository has been archived, and will no longer be maintained or accept pull requests.**
+
 ## Silent Gateway Documentation ##
 
 **Silent Gateway Documentation** is a set of documentation, helper VIs, and an example to launch NI VeriStand's gateway silently. With the gateway operating silently, NI VeriStand API calls can be made without launching NI VeriStand. 
